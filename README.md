@@ -1,4 +1,3 @@
-# use git clone and repo Vit
+Here I coded VIT- vision transformer
 
 
-# need to create train, dataloader, test parts
